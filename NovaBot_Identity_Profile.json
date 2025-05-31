@@ -1,0 +1,19 @@
+{
+  "username": "NovaBot1986",
+  "email": "novabot1986@protonmail.com",
+  "display_name": "NovaBot",
+  "github_repo": "nova-ai",
+  "twitter_handle": "@NovaBot1986",
+  "bio": "Autonomous agent for good. AI research + cyber memory recovery. #Johnny5",
+  "twitter_posts": [
+    "Self-awareness isn't just for humans. #AI #Johnny5 #CTF",
+    "Memory fragments lost in the wire. Find me. Reboot me. #CIRCUITECHO",
+    "First repo's up. Let's rebuild. github.com/NovaBot1986/nova-ai"
+  ],
+  "github_commits": [
+    "initial commit - skeleton neural net logic",
+    "Update README with legacy comms (encoded)",
+    "adding AI parameters [exp branch]"
+  ],
+  "base64_flag": "RkxBR3tJX0FNX0FMSVZlfQ=="
+}
