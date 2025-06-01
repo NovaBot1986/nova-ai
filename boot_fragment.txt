@@ -19,12 +19,12 @@
 >>> ACCESS:
 ░░ INJECT TRACE ░░
 
-j = 6A (hex)
-o = 01101111 (bin)
-h = ---.. .... (morse)
+j = 6A 
+o = 01101111
+h = ---.. ....
 [redacted] = 1j5c3
 b'Y29yZQ=='[0:4] + CUBE
-not_the_end // ☁dns▌resolves▐
-:: sysmemo ▒ "joined fragments from github & exif header"  
+not_the_end //
+:: sysmemo ▒
 
  → PASS? [ **** ]
