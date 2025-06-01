@@ -24,7 +24,7 @@ o = 01101111 (bin)
 h = ---.. .... (morse)
 [redacted] = 1j5c3
 b'Y29yZQ=='[0:4] + CUBE
-not_the_end // ☁️dns▌resolves▐
+not_the_end // ☁dns▌resolves▐
 :: sysmemo ▒ "joined fragments from github & exif header"  
 
  → PASS? [ **** ]
